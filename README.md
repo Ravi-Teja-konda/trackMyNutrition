@@ -1,4 +1,4 @@
-# Android Food Recognition and Nutrition info calculator using Teachable Machine learning
+# Android app for food recognition and nutrition info calculation using Teachable Machine learning
 
 ## Overview
 
