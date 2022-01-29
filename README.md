@@ -105,3 +105,5 @@ assets folder.
 
 
 
+## Note: This project is for educational purposes only. All the links provided for nutritional info are for demo purposes only.
+
