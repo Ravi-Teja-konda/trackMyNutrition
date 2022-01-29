@@ -1,6 +1,9 @@
-# Android Currency Detector App using TensorFlow Lite image classification
+# Android Food Recognition and Nutrition info calculator using Teachable Machine learning
 
 ## Overview
+
+This android application will recognise the food item from the camera input and link the nutritional
+info for the food item.
 
 This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
 on Android. It uses
@@ -17,15 +20,10 @@ These instructions walk you through building and
 running the demo on an Android device. For an explanation of the source, see
 [TensorFlow Lite Android image classification example](https://www.tensorflow.org/lite/models/image_classification/android).
 
-<!-- TODO(b/124116863): Add app screenshot. -->
 
 ### Model
-Inside Assests folder zip file is there.
-
-Resnet50 
-16 batch size
-100 epochs
-Teachable ML
+The model is created by training on images scraped from google.
+After scraping the images they are classified and trained via https://teachablemachine.withgoogle.com/train
 
 ## Requirements
 
@@ -98,3 +96,12 @@ Re-installing the app may require you to uninstall the previous installations.
 _Do not delete the assets folder content_. If you explicitly deleted the
 files, choose `Build -> Rebuild` to re-download the deleted model files into the
 assets folder.
+
+
+## References:
+* https://github.com/AndroidArena/CurrencyDetectorAndroid
+* https://www.nutritionix.com
+* https://www.herbazest.com/
+
+
+
