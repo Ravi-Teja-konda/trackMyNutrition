@@ -29,7 +29,7 @@ Teachable ML
 
 ## Requirements
 
-*   Android Studio 3.2 (installed on a Linux, Mac or Windows machine)
+*   Android Studio (installed on a Linux, Mac or Windows machine)
 
 *   Android device in
     [developer mode](https://developer.android.com/studio/debug/dev-options)
@@ -45,7 +45,7 @@ Clone the TensorFlow examples GitHub repository to your computer to get the demo
 application.
 
 ```
-https://github.com/AndroidArena/CurrencyDetectorAndroid.git
+https://github.com/Ravi-Teja-konda/trackMyNutrition.git
 ```
 
 Open the TensorFlow source code in Android Studio. To do this, open Android
